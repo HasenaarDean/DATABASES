@@ -1,0 +1,11 @@
+DROP TABLE if exists VipChairOrder cascade;
+DROP TABLE if exists SimpleChairOrder cascade;
+DROP TABLE if exists VipClient cascade;
+DROP TABLE if exists Client cascade;
+DROP TABLE if exists VipFlightChair cascade;
+DROP TABLE if exists SimpleFlightChair cascade;
+DROP TABLE if exists FlightChair cascade;
+DROP TABLE if exists PilotOfFlight cascade;
+DROP TABLE if exists Flight cascade;
+DROP TABLE if exists Airplane cascade;
+DROP TABLE if exists Pilot cascade;
